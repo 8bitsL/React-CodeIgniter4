@@ -23,4 +23,12 @@ Produto:
 - PREÇO
 
 
+# HOME PAGE
+<img width="1920" alt="Home" src="https://user-images.githubusercontent.com/51348224/164050984-a22c465a-35de-4bf4-8152-04c933f4cd15.PNG">
+
+# CADASTRO DE CLIENTES
+<img width="1920" alt="CadastroCliente" src="https://user-images.githubusercontent.com/51348224/164051306-ee166f98-528c-4972-a645-1310345a0ea3.PNG">
+
+# LISTAGEM DE CLIENTES
+<img width="1920" alt="ListarCliente" src="https://user-images.githubusercontent.com/51348224/164051431-fcad0365-67df-4c9c-8873-79a48cbc875f.PNG">
 
