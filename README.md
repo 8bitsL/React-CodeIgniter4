@@ -1,6 +1,6 @@
 # React-CodeIgniter4
 O código foi feito com o proposito de  praticar o React junto ao CodeIgniter 4
-Nesse código simples foi feita uma listagem de clientes e de produtos.
+Nesse código foi feita uma listagem de clientes e de produtos.
 Sendo possível também realizar o cadastro de novos clientes, de forma manual ou de forma automática através do CNPJ.
 
 # Algumas condições do cadastro de clientes
